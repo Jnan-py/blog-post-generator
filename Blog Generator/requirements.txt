@@ -1,0 +1,7 @@
+streamlit
+pydantic
+bcrypt
+sqlite3
+requests
+python-dotenv
+phi
