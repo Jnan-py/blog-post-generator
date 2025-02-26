@@ -21,7 +21,7 @@ This is a Streamlit-based web application that generates blog posts using Google
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/blog-post-generator.git
+   git clone https://github.com/Jnan-py/blog-post-generator.git
    cd blog-post-generator
    ```
 2. Create and activate a virtual environment:
