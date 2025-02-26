@@ -44,7 +44,7 @@ This is a Streamlit-based web application that generates blog posts using Google
 
 1. Run the application:
    ```sh
-   streamlit run app.py
+   streamlit run main.py
    ```
 2. Open the application in your browser and log in or sign up.
 3. Enter a topic to generate a blog post and view related news articles.
